@@ -1,0 +1,2 @@
+Automated PDF download could not find documents for this category.
+Reason: The AMC either has no public documents available here, or their portal actively blocks automated scrapers (e.g., CAPTCHA, SPAs).

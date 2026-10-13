@@ -1,0 +1,3 @@
+This AMC folder does not contain an automated PDF download.
+Reason: The AMC either has no active retail schemes for December 2024, or their portal actively blocks automated scrapers (e.g., CAPTCHA, complex SPA dropdowns).
+Please visit the official website for Bandhan Mutual Fund to manually download the factsheet if it exists.

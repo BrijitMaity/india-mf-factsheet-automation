@@ -1,0 +1,27 @@
+# Byte-compiled / optimized files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Large PDF data files (avoids GitHub 100MB limit & gigabyte-sized pushes)
+*.pdf
+*/**/*.pdf
+*/**/Factsheets/*.pdf
+*/**/Forms_and_Information/*.pdf
+
+# Environment & Virtualenvs
+.env
+.venv
+env/
+venv/
+
+# Operating System files
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+
+# Local backups & scratch dumps
+backup/
+not able to download/
+demo csv/
